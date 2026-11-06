@@ -1,6 +1,6 @@
 # Licensed Parties
 
-Under Section 3.6 of the Auto-Finder Source-Available Noncommercial License (LICENSE.md), the parties listed at the end of this file have the Licensor's permission in advance, for the scope stated in their entry. Without a stated scope, an entry is a free commercial license for any use of the Software and its Derivative Works. An entry takes effect when it is published in the Repository (https://github.com/SimpleBlockDev/Auto-Finder); no other notice is required. Credit under Section 4 is still required unless the entry says otherwise.
+Under Section 3.6 of the Auto-Finder Source-Available Noncommercial License (LICENSE.md), the parties listed at the end of this file have the Licensor's permission in advance, for the scope stated in their entry. Without a stated scope, an entry is a free commercial license for any use of the Software and its Derivative Works. An entry takes effect when it is published in the Repository (https://github.com/simpleblockdev/Auto-Finder); no other notice is required. Credit under Section 4 is still required unless the entry says otherwise.
 
 An entry may be a person, a group of persons, an organization, a project, a server, or a domain. A party also listed in EXCLUDED.md is not licensed: EXCLUDED.md prevails. The Licensor may add, change, or remove entries in its sole discretion. Removing an entry ends the permission for the future only. Contact: https://discord.gg/9KmaCbz9HQ, asimpleblockdev@gmail.com.
 

@@ -8,7 +8,7 @@ Copyright (c) 2026 A Simple Block. All rights reserved, except the rights expres
 
 **"Software"** means Auto-Finder in each version that the Licensor has published under this License, including every release and every commit in the Repository that carries this License, a notice from the Appendix, or a README statement that it is under this License, together with all of its source code, binaries, scripts, assets, data, and documentation, and any part of it. Versions the Licensor has released under a different license stay under that license.
 
-**"Licensor"** means A Simple Block, the copyright holder, and any successor or assignee of the Licensor's rights. **"Repository"** means the Licensor's official repository at https://github.com/SimpleBlockDev/Auto-Finder and any location that replaces it.
+**"Licensor"** means A Simple Block, the copyright holder, and any successor or assignee of the Licensor's rights. **"Repository"** means the Licensor's official repository at https://github.com/simpleblockdev/Auto-Finder and any location that replaces it.
 
 **"You"** means the individual or entity exercising rights under this License, together with its Affiliates. **"Affiliate"** means any person or entity that directly or indirectly controls, is controlled by, or is under common control with another person or entity; "control" means owning more than 25% of the voting or economic interests of an entity, or being able to direct its management or policies.
 
@@ -50,7 +50,7 @@ Every term of Sections 3, 4, and 5 is an express condition and a limit on the sc
 
 ## 4. Attribution
 
-**4.1** Whenever You distribute the Software or a Derivative Work, or make either available to users (for example as part of a game, server, mod, app, website, or service), You must credit the original work with this text, or with the text the Repository's README specifies for that purpose: "Based on Auto-Finder by A Simple Block (https://github.com/SimpleBlockDev/Auto-Finder)".
+**4.1** Whenever You distribute the Software or a Derivative Work, or make either available to users (for example as part of a game, server, mod, app, website, or service), You must credit the original work with this text, or with the text the Repository's README specifies for that purpose: "Based on Auto-Finder by A Simple Block (https://github.com/simpleblockdev/Auto-Finder)".
 
 **4.2** The credit must appear (a) in the README, project page, and download page of the Derivative Work or other work that uses the Software; (b) somewhere users can easily find it in the product itself, such as an About, Credits, or Info screen, a startup or loading message, a server description, or a mod or package description; and (c) in its documentation. If a product has no user interface, (a) and (c) suffice. You must also keep all copyright, license, and attribution notices in the source files, and must not remove, hide, obscure, or make them hard to find.
 
@@ -108,6 +108,6 @@ Put this header, in the comment syntax of the language, at the top of each sourc
 Copyright (c) 2026 A Simple Block. Part of Auto-Finder.
 Source-available, noncommercial use only. No commercial use and no use by
 Excluded Parties without the author's written permission. Credit required.
-See LICENSE.md, EXCLUDED.md, and LICENSED.md in https://github.com/SimpleBlockDev/Auto-Finder.
+See LICENSE.md, EXCLUDED.md, and LICENSED.md in https://github.com/simpleblockdev/Auto-Finder.
 SPDX-License-Identifier: LicenseRef-Source-Available-Noncommercial-1.0
 ```
